@@ -1,0 +1,5 @@
+# Project exclude paths
+/DesignPattern/bin/
+/JDKSRC/bin/
+/MyBatis/bin/
+/Spring/bin/
